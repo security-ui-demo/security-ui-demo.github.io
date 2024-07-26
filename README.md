@@ -8,16 +8,16 @@ This website aims to simulate the user experience when a bank customer encounter
 
 ![screen capture](screenshots/glitch.gif)
 
-## References
+## References:
 
 [Collection of design ideas in Figma](https://www.figma.com/design/V4yBgXcdnICrI2Aj7Uretp/Bank-account-references?node-id=0-1&t=45Oh1rioxwNgbPWd-1)
 
-## Tools
+## Tools:
 
 - Created using HTML, CSS, JS, VS Code, GitHub, Figma
 - Deployed using GitHub pages
 
-## Tech details
+## Tech details:
 
 Clicking on the notification starts a series of JS functions that handle DOM manipulation.
 
